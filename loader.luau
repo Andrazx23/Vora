@@ -28,6 +28,13 @@ local ___loaders: { [number]: loader_config } = {
         version = "0.0.1",
         author = "Andra",
     },
+
+    [66654135] = {
+        name = "murder mystery 2",
+        url = "https://luaegis.net/scripts/v4/loaders/51a8bc28-75e7-4e40-9e17-44410e2b006e.lua",
+        version = "0.0.1",
+        author = "Kirsia",
+    },
 }
 
 --// Universal Loader (Fallback)
