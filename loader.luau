@@ -35,6 +35,13 @@ local ___loaders: { [number]: loader_config } = {
         version = "0.0.1",
         author = "Kirsia",
     },
+
+    [6739698191] = {
+        name = "violence district",
+        url = "https://luaegis.net/scripts/v4/loaders/14b3ccec-e5d2-4b6d-b081-1d290866a322.lua",
+        version = "0.0.1",
+        author = "Kirsia",
+    },
 }
 
 --// Universal Loader (Fallback)
